@@ -2,4 +2,5 @@ scikit-learn
 numpy
 pandas
 seaborn
+dill
 #-e .
